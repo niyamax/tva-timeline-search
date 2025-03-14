@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This project is a fun simulation inspired by the Time Variance Authority (TVA) from Marvel Comics. It allows users to enter historical events and explore various variants of those events through an interactive Next.js web application.
+
+![image](https://github.com/user-attachments/assets/ab48ad96-b92b-4642-a592-ca6ad45fbeb4)
+
 
 ## Getting Started
 
